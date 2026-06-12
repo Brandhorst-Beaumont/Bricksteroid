@@ -4,6 +4,10 @@ import math
 import random
 from bricksteorid import *
 
+# Brandhorst Beaumont C.I: 28.387.689
+# Kleberson Lopez C.I: 29.982.554
+# Jefferson Irausquin C.I: 26.067.444
+
 os.environ['SDL_VIDEO_WINDOW_POS'] = 'x,y'
 
 pg.init()
